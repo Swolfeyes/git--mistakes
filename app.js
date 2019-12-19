@@ -5,3 +5,7 @@ const someJsCode = () => {
 someJsCode()
 console.log('ciaooooo')
 
+const addingAnotherFun = () => {
+  console.log('ciao ancora!!');
+}
+
