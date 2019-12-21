@@ -1,5 +1,5 @@
-const someJsCode = () => {
-  console.log('some code')
+const addingAnotherFun = () => {
+  console.log('ciao ancora!!');
 }
 
 someJsCode()
@@ -8,4 +8,3 @@ console.log('ciaooooo')
 const addingAnotherFun = () => {
   console.log('ciao ancora!!');
 }
-
